@@ -1,6 +1,10 @@
 Pan... 1,2,3 responda otra vez
-
 Leche
 Hojaldre
 Huevos
 Sal
+Manzanas
+Orégano
+Perejil
+Agua
+Leche
